@@ -2,7 +2,7 @@
 
 **暨南大学国际学院 · 本科（2022-2026）**  
 📍 技术领域：全栈开发 · 数据分析 · 交互设计  
-🌐 [在线简历](https://tungyanproflie.my.canvasite.cn/ )
+🌐 [在线简历](https://tungyanproflie.my.canvasite.cn/)  
 📧 iutungyan@outlook.com
 
 ---
@@ -20,7 +20,7 @@
 
 ### 1. [大湾区国际传播交互地图](portfolio/map-project)
 - **技术**: JavaScript + Leaflet.js · 多语言UI设计  
-- **成果**: 国际用户访问量提升30%，播放量6k+双语视频  
+- **成果**: 播放量6k+双语视频  
 - **代码**: [查看源码](portfolio/map-project/code) | [演示视频](portfolio/map-project/demo)
 
 ### 2. [智能校园服务系统](portfolio/smart-campus)
